@@ -20,5 +20,5 @@ Ele seleciona a tag e a class, e pega os dados selecionados da tag e class.
 
 Melhorias:
 
-Utlizar o banco de dados, jpa ou mesmo uma inserção feita a mão.
+Utlizar o banco de dados, jpa ou mesmo uma inserção feita a mão.<br>
 Selecionar o código podendo só exibir o contúdo da tag.
